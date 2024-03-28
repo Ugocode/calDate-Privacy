@@ -1,4 +1,4 @@
-# CalDate-Privacy
+# CalCloc-Privacy
 
 #PRIVACY NOTICE
 
